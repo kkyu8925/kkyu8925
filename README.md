@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🌱 I’m currently learning JAVA!
 
 <!--
 **gusrb8925/gusrb8925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
