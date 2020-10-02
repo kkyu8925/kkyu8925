@@ -1,4 +1,4 @@
-<br/>
+<br>
 ### Hi there 👋
 
 ### 🌱 I’m currently learning JAVA!
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
+<br>
 <a href="https://github.com/gusrb8925?tab=repositories">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gusrb8925&theme=radical&layout=compact" />
 </a>
