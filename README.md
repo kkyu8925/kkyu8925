@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 <br>
 <a href="https://github.com/kkyu8925?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gusrb8925&theme=buefy&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kkyu8925&theme=buefy&layout=compact" />
 </a>
