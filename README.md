@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-1997.03.26 <br>
-🌟 portfolio https://www.notion.so/78e3b0a521284ad3941d4aa9530c27cf <br>
-🌟 email     kkyu8925@gmail.com <br>
-
 <br>
 <a href="https://github.com/kkyu8925?tab=repositories">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kkyu8925&theme=buefy&layout=compact" />
