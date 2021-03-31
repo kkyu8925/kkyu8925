@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ⚡<a href="https://www.notion.so/78e3b0a521284ad3941d4aa9530c27cf"> portfolio</a><br> -->
+⚡<a href="https://www.notion.so/1e69938b79184e3498bb9437ae3eada0"> My portfolio</a><br>
 
 <br>
 <a href="https://github.com/kkyu8925?tab=repositories">
